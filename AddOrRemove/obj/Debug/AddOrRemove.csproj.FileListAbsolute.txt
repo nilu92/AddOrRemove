@@ -1,0 +1,15 @@
+C:\Users\Nikla\source\repos\AddOrRemove\bin\Debug\AddOrRemove.exe.config
+C:\Users\Nikla\source\repos\AddOrRemove\bin\Debug\AddOrRemove.exe
+C:\Users\Nikla\source\repos\AddOrRemove\bin\Debug\AddOrRemove.pdb
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove.csprojAssemblyReference.cache
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\MainWindow.g.cs
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\App.g.cs
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove_MarkupCompile.cache
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove_MarkupCompile.lref
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\MainWindow.baml
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove.g.resources
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove.Properties.Resources.resources
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove.csproj.GenerateResource.cache
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove.csproj.CoreCompileInputs.cache
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove.exe
+C:\Users\Nikla\source\repos\AddOrRemove\obj\Debug\AddOrRemove.pdb
